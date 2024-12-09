@@ -1,6 +1,11 @@
-http://ip:port
-socks4://ip:port
-socks5://ip:port
-http://user:pass@ip:port
-socks4://user:pass@ip:port
-socks5://user:pass@ip:port
+http://1jfw28v2n5ucip6-country-us:ghbo259hreedgxz@rp.proxyscrape.com:6060
+http://1jfw28v2n5ucip6-country-us:ghbo259hreedgxz@rp.proxyscrape.com:6060
+http://1jfw28v2n5ucip6-country-us:ghbo259hreedgxz@rp.proxyscrape.com:6060
+http://1jfw28v2n5ucip6-country-us:ghbo259hreedgxz@rp.proxyscrape.com:6060
+http://1jfw28v2n5ucip6-country-us:ghbo259hreedgxz@rp.proxyscrape.com:6060
+http://1jfw28v2n5ucip6-country-us:ghbo259hreedgxz@rp.proxyscrape.com:6060
+http://1jfw28v2n5ucip6-country-us:ghbo259hreedgxz@rp.proxyscrape.com:6060
+http://1jfw28v2n5ucip6-country-us:ghbo259hreedgxz@rp.proxyscrape.com:6060
+http://1jfw28v2n5ucip6-country-us:ghbo259hreedgxz@rp.proxyscrape.com:6060
+http://1jfw28v2n5ucip6-country-us:ghbo259hreedgxz@rp.proxyscrape.com:6060
+http://1jfw28v2n5ucip6-country-us:ghbo259hreedgxz@rp.proxyscrape.com:6060
